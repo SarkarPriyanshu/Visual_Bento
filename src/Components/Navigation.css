@@ -1,0 +1,33 @@
+.navigation-wrapper {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  padding: 1rem 0;
+  padding: 0.25rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-link {
+  text-transform: uppercase;
+  font-weight: 400;
+  color: inherit;
+  letter-spacing: 0.2rem;
+  text-decoration: none;
+}
+
+.navigation-link_circle {
+  background-color: #fbfbfb;
+  display: inline-block;
+  width: 0.625rem;
+  height: 0.625rem;
+  border-radius: 50%;
+}
+
+.navigation-logos-wrapper {
+  width: 6%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

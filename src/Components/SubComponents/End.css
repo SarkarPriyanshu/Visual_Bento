@@ -1,0 +1,14 @@
+.end-wrapper {
+  width: 100vw;
+  height: 100%;
+  padding: 0.25rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  scroll-snap-align: start;
+}
+
+.end-h2 {
+  font-size: 3rem;
+}
